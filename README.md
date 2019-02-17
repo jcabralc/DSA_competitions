@@ -1,2 +1,19 @@
-# DSA_competitions
-Repository with my solutions for the Data Science Academy (DSA) competitions in Kaggle InClass
+# Data Science Academy Competitions
+
+This repository contains my solutions for the Data Science Academy (DSA) competitions on Kaggle InClass
+
+Everything is in Python Jupyter Notebooks.
+
+Month | Competition theme | Link to Repo
+--- | --- | --- 
+01-Jan2019 |  Diabetes |  [Month Repo](link "Jan2019")
+02-Fev2019 |  TBD | Coming Soon
+03-Mar2019 |  TBD | Coming Soon
+04-Apr2019 |  TBD | Coming Soon
+05-May2019 |  TBD | Coming Soon
+06-Jun2019 |  TBD | Coming Soon
+ 
+
+
+
+
